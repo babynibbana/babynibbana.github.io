@@ -5,6 +5,5 @@ header_pages:
   - about.md
   - films.md
   - contact.md
-social:
-  instagram: https://www.instagram.com/babynibbana/
-  youtube: https://www.youtube.com/@BabyNibbana
+instagram_username: babynibbana
+youtube_username: BabyNibbana
