@@ -1,6 +1,7 @@
 title: Baby Nibbana
 theme: minima
 header_pages:
+  - index.md
   - about.md
   - films.md
   - contact.md

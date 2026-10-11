@@ -1,4 +1,6 @@
 ---
 layout: home
-title: Baby Nibbana
+title: Home
 ---
+
+Welcome to Baby Nibbana.
